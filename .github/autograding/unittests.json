@@ -1,0 +1,38 @@
+[
+  {
+    "name": "test_empty_author_raises_value_error",
+    "function": "test_empty_author_raises_value_error",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_empty_title_raises_value_error",
+    "function": "test_empty_title_raises_value_error",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_set_author",
+    "function": "test_set_author",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_set_availability",
+    "function": "test_set_availability",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_set_title",
+    "function": "test_set_title",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_valid_book_creation",
+    "function": "test_valid_book_creation",
+    "timeout": 10,
+    "points": 1
+  }
+]
